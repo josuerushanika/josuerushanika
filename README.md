@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js, React Native and TypeScript**
 
-- 👯 I’m looking to collaborate on **frontend, backend and open source projects projects**
+- 👯 I’m looking to collaborate on **frontend, backend and open source projects**
 - 👨‍💻 All of my projects are available at [https://github.com/josuerushanika?tab=repositories](https://github.com/josuerushanika?tab=repositories)
 - 📫 How to reach me **josuerushanika@gmail.com**
 
