@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **frontend  and contributing to open source projects.**
 
-- 🌱 I’m currently learning **Next.js, React Native, AI and TypeScript**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **frontend, backend and open source projects**
 - 👨‍💻 All of my projects are available at [https://github.com/josuerushanika?tab=repositories](https://github.com/josuerushanika?tab=repositories)
